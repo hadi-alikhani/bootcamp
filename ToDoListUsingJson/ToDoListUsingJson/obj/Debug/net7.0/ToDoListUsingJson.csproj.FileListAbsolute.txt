@@ -1,0 +1,14 @@
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\ToDoListUsingJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\ToDoListUsingJson.AssemblyInfoInputs.cache
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\ToDoListUsingJson.AssemblyInfo.cs
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\ToDoListUsingJson.csproj.CoreCompileInputs.cache
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\bin\Debug\net7.0\ToDoListUsingJson.exe
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\bin\Debug\net7.0\ToDoListUsingJson.deps.json
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\bin\Debug\net7.0\ToDoListUsingJson.runtimeconfig.json
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\bin\Debug\net7.0\ToDoListUsingJson.dll
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\bin\Debug\net7.0\ToDoListUsingJson.pdb
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\ToDoListUsingJson.dll
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\refint\ToDoListUsingJson.dll
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\ToDoListUsingJson.pdb
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\ToDoListUsingJson.genruntimeconfig.cache
+E:\asp.net train\ToDoListUsingJson\ToDoListUsingJson\obj\Debug\net7.0\ref\ToDoListUsingJson.dll
