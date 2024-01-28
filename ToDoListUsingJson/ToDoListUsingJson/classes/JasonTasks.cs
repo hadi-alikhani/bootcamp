@@ -18,13 +18,18 @@ namespace ToDoListUsingJson.classes
             var totaltask = new List<Tasks>();
             if (File.Exists(@"E:\Tasks.json"))
             {
-                string contentJsonFile = File.ReadAllText(@"E:\Tasks.json");
-                List<Tasks>? tasks = JsonSerializer.Deserialize<List<Tasks>>(contentJsonFile);
-                 totaltask = tasks.Concat(input).ToList();
-            }
+            string contentJsonFile = File.ReadAllText(@"E:\Tasks.json");
+            List<Tasks>? tasks = JsonSerializer.Deserialize<List<Tasks>>(contentJsonFile);
+            totaltask = tasks.Concat(input).ToList();
             string json = JsonSerializer.Serialize(totaltask);
             File.WriteAllText(@"E:\Tasks.json", json);
-
+            }
+           else
+           {
+            totaltask= input;
+            string json = JsonSerializer.Serialize(totaltask);
+            File.WriteAllText(@"E:\Tasks.json", json);
+           }
         }
         public static Tasks WhichOneTask(string JasonFilePath)
         {
