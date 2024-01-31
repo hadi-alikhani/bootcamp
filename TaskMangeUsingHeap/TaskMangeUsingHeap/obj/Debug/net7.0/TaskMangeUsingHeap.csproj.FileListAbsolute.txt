@@ -1,0 +1,14 @@
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\bin\Debug\net7.0\TaskMangeUsingHeap.exe
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\bin\Debug\net7.0\TaskMangeUsingHeap.deps.json
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\bin\Debug\net7.0\TaskMangeUsingHeap.runtimeconfig.json
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\bin\Debug\net7.0\TaskMangeUsingHeap.dll
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\bin\Debug\net7.0\TaskMangeUsingHeap.pdb
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\TaskMangeUsingHeap.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\TaskMangeUsingHeap.AssemblyInfoInputs.cache
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\TaskMangeUsingHeap.AssemblyInfo.cs
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\TaskMangeUsingHeap.csproj.CoreCompileInputs.cache
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\TaskMangeUsingHeap.dll
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\refint\TaskMangeUsingHeap.dll
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\TaskMangeUsingHeap.pdb
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\TaskMangeUsingHeap.genruntimeconfig.cache
+E:\asp.net train\TaskMangeUsingHeap\TaskMangeUsingHeap\obj\Debug\net7.0\ref\TaskMangeUsingHeap.dll
