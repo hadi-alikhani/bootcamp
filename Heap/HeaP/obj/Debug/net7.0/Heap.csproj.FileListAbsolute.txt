@@ -1,0 +1,14 @@
+E:\asp.net train\HeaP\HeaP\bin\Debug\net7.0\Heap.exe
+E:\asp.net train\HeaP\HeaP\bin\Debug\net7.0\Heap.deps.json
+E:\asp.net train\HeaP\HeaP\bin\Debug\net7.0\Heap.runtimeconfig.json
+E:\asp.net train\HeaP\HeaP\bin\Debug\net7.0\Heap.dll
+E:\asp.net train\HeaP\HeaP\bin\Debug\net7.0\Heap.pdb
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\Heap.AssemblyInfoInputs.cache
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\Heap.AssemblyInfo.cs
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\Heap.csproj.CoreCompileInputs.cache
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\Heap.dll
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\refint\Heap.dll
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\Heap.pdb
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\Heap.genruntimeconfig.cache
+E:\asp.net train\HeaP\HeaP\obj\Debug\net7.0\ref\Heap.dll
