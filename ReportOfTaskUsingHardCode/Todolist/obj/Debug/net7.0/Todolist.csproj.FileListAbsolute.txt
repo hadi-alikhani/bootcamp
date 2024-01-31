@@ -1,0 +1,14 @@
+E:\asp.net train\Todolist\Todolist\bin\Debug\net7.0\Todolist.exe
+E:\asp.net train\Todolist\Todolist\bin\Debug\net7.0\Todolist.deps.json
+E:\asp.net train\Todolist\Todolist\bin\Debug\net7.0\Todolist.runtimeconfig.json
+E:\asp.net train\Todolist\Todolist\bin\Debug\net7.0\Todolist.dll
+E:\asp.net train\Todolist\Todolist\bin\Debug\net7.0\Todolist.pdb
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\Todolist.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\Todolist.AssemblyInfoInputs.cache
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\Todolist.AssemblyInfo.cs
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\Todolist.csproj.CoreCompileInputs.cache
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\Todolist.dll
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\refint\Todolist.dll
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\Todolist.pdb
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\Todolist.genruntimeconfig.cache
+E:\asp.net train\Todolist\Todolist\obj\Debug\net7.0\ref\Todolist.dll
