@@ -1,0 +1,11 @@
+E:\Camp\Hamkara.Contract\Hamkara.Contract\bin\Debug\net7.0\Hamkara.Contract.deps.json
+E:\Camp\Hamkara.Contract\Hamkara.Contract\bin\Debug\net7.0\Hamkara.Contract.dll
+E:\Camp\Hamkara.Contract\Hamkara.Contract\bin\Debug\net7.0\Hamkara.Contract.pdb
+E:\Camp\Hamkara.Contract\Hamkara.Contract\obj\Debug\net7.0\Hamkara.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Camp\Hamkara.Contract\Hamkara.Contract\obj\Debug\net7.0\Hamkara.Contract.AssemblyInfoInputs.cache
+E:\Camp\Hamkara.Contract\Hamkara.Contract\obj\Debug\net7.0\Hamkara.Contract.AssemblyInfo.cs
+E:\Camp\Hamkara.Contract\Hamkara.Contract\obj\Debug\net7.0\Hamkara.Contract.csproj.CoreCompileInputs.cache
+E:\Camp\Hamkara.Contract\Hamkara.Contract\obj\Debug\net7.0\Hamkara.Contract.dll
+E:\Camp\Hamkara.Contract\Hamkara.Contract\obj\Debug\net7.0\refint\Hamkara.Contract.dll
+E:\Camp\Hamkara.Contract\Hamkara.Contract\obj\Debug\net7.0\Hamkara.Contract.pdb
+E:\Camp\Hamkara.Contract\Hamkara.Contract\obj\Debug\net7.0\ref\Hamkara.Contract.dll
