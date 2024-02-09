@@ -1,0 +1,15 @@
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\bin\Debug\net7.0\Hamkaran.Test.Two.deps.json
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\bin\Debug\net7.0\Hamkaran.Test.Two.dll
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\bin\Debug\net7.0\Hamkaran.Test.Two.pdb
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\bin\Debug\net7.0\Hamkara.Contract.dll
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\bin\Debug\net7.0\Hamkara.Contract.pdb
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\Hamkaran.Test.Two.csproj.AssemblyReference.cache
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\Hamkaran.Test.Two.GeneratedMSBuildEditorConfig.editorconfig
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\Hamkaran.Test.Two.AssemblyInfoInputs.cache
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\Hamkaran.Test.Two.AssemblyInfo.cs
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\Hamkaran.Test.Two.csproj.CoreCompileInputs.cache
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\Hamkaran.Test.Two.csproj.CopyComplete
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\Hamkaran.Test.Two.dll
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\refint\Hamkaran.Test.Two.dll
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\Hamkaran.Test.Two.pdb
+E:\Camp\Hamkaran.Test.Two\Hamkaran.Test.Two\obj\Debug\net7.0\ref\Hamkaran.Test.Two.dll
